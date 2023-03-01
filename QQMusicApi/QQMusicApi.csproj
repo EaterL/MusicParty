@@ -7,7 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\MusicApiContract\MusicApiContract.csproj" />
+      <ProjectReference Include="C:\music\net6.0" />
     </ItemGroup>
 
 </Project>
